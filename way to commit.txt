@@ -1,0 +1,27 @@
+1. 레포지토리 생성
+2. 레포지토리 clone 생성 
+	git clone "레포지토리 코드 주소"
+3. 레포지토리 파일로 진입 
+	cd "레포지토리명"
+4. 중간확인
+	git remote
+5. 파일 넣기
+6. 파일 add 해서 파일 삽입함
+	git add .
+7. 삽입한 파일 확인
+	git status
+8. 커밋 메시지 작성
+	git commit -m "커밋 메시지"
+9. push해서 원격으로 올리기
+	git push "origin" "브랜치명"
+10. 깃허브 가서 확인해보자
+
+
+ⓛ 파일 추가
+	git add .
+② 파일 상태 확인
+	git status
+③ 커밋 메시지 작성
+	git commit -m "커밋 메시지"
+④ push작업
+	git push "origin" "브랜치명"
