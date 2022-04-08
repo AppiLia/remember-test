@@ -25,3 +25,14 @@
 	git commit -m "커밋 메시지"
 ④ push작업
 	git push "origin" "브랜치명"
+
+
+ㄱ 파일내용 변경
+	변경됨
+ㄴ git add . 와 git status로 상태 확인
+	git add .
+	git status
+ㄷ 커밋메시지 작성
+	git commit -m "커밋 메시지"
+ㄹ 커밋 push
+	git push origin "브랜치명"
